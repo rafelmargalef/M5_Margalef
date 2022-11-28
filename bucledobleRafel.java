@@ -2,9 +2,9 @@ import java.util.*;
 
 public class bucledobleRafel {
   public static void main(String[] args) {
-    int j=0;
-    int x=0;
-    while (j<5) {
+    int j=0;  //Creem variable i assignem valor
+    int x=0;  
+    while (j<5) {  
       while (x<3) {
         
         System.out.print("-");
